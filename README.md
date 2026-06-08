@@ -1,1 +1,2 @@
-STM32 various examples & proj/co/stm32f030_board_co wireless module project
+STM32 examples
+& proj/co/stm32f030_board_co wireless module project
